@@ -1,0 +1,46 @@
+* {
+    font-family: Aptos, Helvetica, Arial, Helvetica, sans-serif;
+    font-size:20px;
+}
+
+h1{
+    font-size:50px;
+    background-color: brown;
+    padding:30px;
+    margin:30px auto;
+    color:rgb(166, 216, 72);
+    text-align:center;
+}
+
+h2{
+    font-size:30px;
+    background-color:rgb(15, 142, 94);
+    padding:10px;
+    color:white;
+}
+
+ol, p{
+    text-align:justify
+}
+
+p{
+    margin-left:10px
+}
+
+li{
+    margin:10px;
+}
+
+.image-container{
+    width:500px;
+    margin:0px auto;   
+}
+
+img{
+    width:500px;
+}
+
+.home {
+    font-style: italic;
+    text-align: right;
+}
